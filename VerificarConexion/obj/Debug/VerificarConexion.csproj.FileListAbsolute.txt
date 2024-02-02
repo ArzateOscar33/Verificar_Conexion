@@ -1,0 +1,7 @@
+C:\Users\Arzate\source\repos\VerificarConexion\VerificarConexion\bin\Debug\VerificarConexion.exe.config
+C:\Users\Arzate\source\repos\VerificarConexion\VerificarConexion\bin\Debug\VerificarConexion.exe
+C:\Users\Arzate\source\repos\VerificarConexion\VerificarConexion\bin\Debug\VerificarConexion.pdb
+C:\Users\Arzate\source\repos\VerificarConexion\VerificarConexion\obj\Debug\VerificarConexion.csproj.AssemblyReference.cache
+C:\Users\Arzate\source\repos\VerificarConexion\VerificarConexion\obj\Debug\VerificarConexion.csproj.CoreCompileInputs.cache
+C:\Users\Arzate\source\repos\VerificarConexion\VerificarConexion\obj\Debug\VerificarConexion.exe
+C:\Users\Arzate\source\repos\VerificarConexion\VerificarConexion\obj\Debug\VerificarConexion.pdb
